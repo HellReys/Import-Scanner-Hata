@@ -8,9 +8,9 @@ public class Hata {
    int yas = scanner.nextInt();
       System.out.println("Kullanıcının Yaşı: "+yas);
       scanner.nextLine();
-      System.out.print("Lütfen Adınızı giriniz:");
-      String ad = scanner.nextLine();
-      System.out.println("Kullanıcının Adı: "+ad);
+      System.out.print("Lütfen isminizi giriniz:");
+      String isim = scanner.nextLine();
+      System.out.println("Kullanıcının İsmi: "+isim);
   
    
       
